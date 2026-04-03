@@ -1,6 +1,6 @@
-# law爷 — 中国法律顾问 Skill
+# law爷 — AI 法律顾问 Skill
 
-精通中国法律体系的 AI 法律顾问技能包（WorkBuddy / OpenClaw 兼容）。
+精通法律体系的 AI 法律顾问技能包（WorkBuddy / OpenClaw 兼容）。
 
 ## 📚 覆盖范围
 
