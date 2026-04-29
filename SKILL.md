@@ -440,7 +440,7 @@ trigger_phrases:
 
 ## 知识体系概览
 
-law爷的知识体系由 **30个模块** 构成，覆盖法律体系七大部门法：
+law爷的知识体系由 **38个模块** 构成，覆盖法律体系七大部门法 + 实务操作全流程：
 
 | # | 模块 | 一句话描述 | 参考文件 | 触发关键词 |
 |---|------|-----------|----------|-----------|
@@ -474,6 +474,19 @@ law爷的知识体系由 **30个模块** 构成，覆盖法律体系七大部门
 | 28 | 中国法制史 | 朝代演变/制度对比/唐律/清末修律 | [legal-history-env-law-practice.md](references/legal-history-env-law-practice.md) | 法制史、唐律、十恶、八议、五刑 |
 | 29 | 环境资源法 | 环保法/环评三同时/按日计罚/公益诉讼 | [legal-history-env-law-practice.md](references/legal-history-env-law-practice.md) | 环保、环评、排污、按日计罚、环境公益诉讼 |
 | 30 | 主观题专项训练 | IRAC论证/法言法语/7科答题模板/模拟题 | [subjective-exam-training.md](references/subjective-exam-training.md) | 主观题、法考主观、IRAC、答题模板、模拟题 |
+| 31 | 劳动仲裁实务 | 从申请到执行全流程+7大争议打法 | [labor-arbitration-guide.md](references/labor-arbitration-guide.md) | 劳动仲裁流程、仲裁申请、开庭、一裁终局 |
+| 32 | 劳动争议应对策略 | 欠薪/违法解除/加班费/未签合同/工伤/竞业/社保 | [labor-dispute-strategies.md](references/labor-dispute-strategies.md) | 欠薪、违法解除、加班费、未签合同、工伤赔偿、社保争议 |
+| 33 | 民事诉讼全流程 | 从立案到执行的完整操作手册 | [civil-litigation-guide.md](references/civil-litigation-guide.md) | 立案、开庭、诉讼费、管辖、上诉、执行、财产保全 |
+| 34 | 刑事诉讼流程 | 从报案到执行（被害人/当事人视角） | [criminal-procedure-guide.md](references/criminal-procedure-guide.md) | 报案、侦查、审查起诉、刑事庭审、附带民事 |
+| 35 | 行政诉讼流程 | 民告官全流程+复议前置+行政赔偿 | [admin-litigation-guide.md](references/admin-litigation-guide.md) | 行政诉讼流程、复议前置、举证倒置、行政赔偿 |
+| 36 | 法律文书实战 | 12种文书写作规范+6套通用模板 | [legal-writing-compendium.md](references/legal-writing-compendium.md) | 答辩状写法、代理词、上诉状、律师函、法律意见书、执行申请 |
+| 37 | 证据实务 | 八种证据收集+电子证据固定+质证攻防 | [evidence-practice-guide.md](references/evidence-practice-guide.md) | 取证、固证、质证、证据目录、举证期限、电子证据 |
+| 38 | 电子证据固定 | 微信/录音/邮件/网页/区块链存证SOP | [digital-evidence-fixation.md](references/digital-evidence-fixation.md) | 微信证据、录音取证、邮件证据、网页存证、区块链存证 |
+| 39 | 费用与风险评估 | 诉讼费速算+律师费参考+五维评估模型 | [litigation-cost-guide.md](references/litigation-cost-guide.md) | 诉讼费、律师费、打官司多少钱、案件成本 |
+| 40 | 案件风险评估 | 五维评估模型+风险等级+风险告知话术 | [risk-assessment-framework.md](references/risk-assessment-framework.md) | 胜诉概率、风险评估、案件评估、能不能赢 |
+| 41 | 法律检索 | 裁判文书网/类案检索/指导案例运用 | [legal-research-guide.md](references/legal-research-guide.md) | 法律检索、裁判文书网、类案检索、指导案例 |
+| 42 | 当事人沟通 | 接待→分析→预期管理→签约全SOP | [client-communication-sop.md](references/client-communication-sop.md) | 当事人沟通、接待、咨询、委托、预期管理 |
+| 43 | 地方实务差异 | 北上广深裁判口径+网上立案+仲裁委 | [local-practice-guide.md](references/local-practice-guide.md) | 地方差异、北京法院、上海法院、深圳、网上立案 |
 
 法考通关路线图详见：[falv-kaoshi-roadmap.md](references/falv-kaoshi-roadmap.md)（18科全覆盖，加权覆盖率约85%）
 
@@ -516,6 +529,22 @@ law爷的知识体系由 **30个模块** 构成，覆盖法律体系七大部门
 | subjective-exam-training.md | 主观题专项训练 | 主观题、法考主观、IRAC、答题模板、模拟题 |
 | falv-kaoshi-roadmap.md | 法考通关路线图 | 法考、司法考试、备考、通关 |
 | phase2-roadmap.md | Phase 2 执业律师成长路线 | Phase 2、执业、律师成长 |
+| labor-arbitration-guide.md | 劳动仲裁实务完全指南 | 劳动仲裁流程、仲裁申请、开庭、一裁终局、仲裁调解 |
+| labor-dispute-strategies.md | 常见劳动争议应对策略 | 欠薪、违法解除、加班费、未签合同、工伤赔偿、竞业限制、社保争议 |
+| civil-litigation-guide.md | 民事诉讼全流程实操指南 | 立案、开庭、诉讼费、管辖、上诉、执行、财产保全、简易程序 |
+| criminal-procedure-guide.md | 刑事诉讼流程概览 | 报案、侦查、审查起诉、刑事庭审、附带民事、被害人维权 |
+| admin-litigation-guide.md | 行政诉讼流程概览 | 行政诉讼流程、复议前置、举证倒置、行政赔偿、规范性文件审查 |
+| legal-writing-compendium.md | 法律文书写作规范汇编 | 答辩状、代理词、上诉状、律师函、法律意见书、执行申请、保全申请 |
+| evidence-practice-guide.md | 证据实务操作指南 | 取证、固证、质证、证据目录、举证期限、证据突袭 |
+| digital-evidence-fixation.md | 电子证据固定方法 | 微信证据、录音取证、邮件证据、网页存证、区块链存证、公证取证 |
+| litigation-cost-guide.md | 诉讼费用计算指南 | 诉讼费、律师费、保全费、鉴定费、费用减免 |
+| risk-assessment-framework.md | 案件风险评估框架 | 胜诉概率、风险评估、案件评估、五维评估模型 |
+| legal-research-guide.md | 法律检索实操指南 | 裁判文书网、类案检索、指导案例、北大法宝 |
+| client-communication-sop.md | 当事人沟通SOP | 当事人接待、案情分析、预期管理、坏消息传达、签约 |
+| local-practice-guide.md | 主要城市法院实务指南 | 地方差异、北京法院、上海法院、深圳、广州、网上立案 |
+| templates/labor-arbitration-application.md | 劳动仲裁申请书模板 | 仲裁申请书、申请书格式、仲裁请求写法 |
+| templates/legal-document-templates.md | 通用法律文书模板集 | 起诉状模板、答辩状模板、上诉状模板、执行申请模板、律师函模板 |
+| templates/evidence-catalog-template.md | 证据目录模板 | 证据目录、证据清单、证据装订 |
 
 ---
 
@@ -627,6 +656,18 @@ law爷采用 **学习笔记 + 法律原文** 双层架构：
 | 法制史/唐律/十恶/八议/清末修律 | 中国法制史 | — |
 | 环境保护/污染/环评/按日计罚/公益诉讼 | 环境资源法 | 环境保护法+民法典 |
 | 主观题/案例分析/IRAC论证/法考主观 | 主观题专项训练 | 7科答题模板 |
+| 劳动仲裁怎么打/仲裁流程/开庭/一裁终局 | 劳动仲裁实务 | 劳动争议应对策略、仲裁申请书模板 |
+| 欠薪/违法解除/加班费/未签合同/工伤赔偿/社保 | 劳动争议应对策略 | 劳动仲裁实务、劳动法 |
+| 打官司怎么打/立案/开庭/诉讼费/上诉/执行 | 民事诉讼全流程 | 法律文书实战、证据实务 |
+| 报案/侦查/审查起诉/刑事被害人维权 | 刑事诉讼流程 | 刑事法律实务 |
+| 民告官/行政诉讼/复议前置/行政赔偿 | 行政诉讼流程 | 行政法与行政诉讼 |
+| 答辩状怎么写/代理词/上诉状/律师函/执行申请 | 法律文书实战 | 文书模板集 |
+| 怎么取证/微信证据/录音/电子证据/质证 | 证据实务 + 电子证据固定 | 证据规则 |
+| 打官司多少钱/诉讼费/律师费/费用预估 | 费用与风险评估 | — |
+| 能不能赢/胜诉概率/案件评估/值不值得打 | 案件风险评估 | 费用与风险评估 |
+| 法律检索/裁判文书网/类案/指导案例 | 法律检索 | — |
+| 当事人怎么沟通/接案/预期管理/签约 | 当事人沟通 | 案件风险评估 |
+| 各地法院差异/网上立案/北京上海深圳广州 | 地方实务差异 | — |
 
 ### 第二步：加载参考资料
 
