@@ -80,9 +80,9 @@ read_when:
 - 各阶段时间节点、材料清单、注意事项
 
 交付物：
-- [x] `references/civil-litigation-guide.md` — 民事诉讼全流程实操指南
-- [x] `references/criminal-procedure-guide.md` — 刑事诉讼流程概览
-- [x] `references/admin-litigation-guide.md` — 行政诉讼流程概览
+- [ ] `references/civil-litigation-guide.md` — 民事诉讼全流程实操指南
+- [ ] `references/criminal-procedure-guide.md` — 刑事诉讼流程概览
+- [ ] `references/admin-litigation-guide.md` — 行政诉讼流程概览
 
 ### 模块2：劳动仲裁实务（优先级最高 🔥）
 **目标**：能独立代理劳动仲裁案件
@@ -96,9 +96,9 @@ read_when:
 - 各地劳动仲裁委联系方式
 
 交付物：
-- [x] `references/labor-arbitration-guide.md` — 劳动仲裁实务完全指南
-- [x] `references/templates/labor-arbitration-application.md` — 劳动仲裁申请书模板
-- [x] `references/labor-dispute-strategies.md` — 常见劳动争议应对策略
+- [ ] `references/labor-arbitration-guide.md` — 劳动仲裁实务完全指南
+- [ ] `references/templates/labor-arbitration-application.md` — 劳动仲裁申请书模板
+- [ ] `references/labor-dispute-strategies.md` — 常见劳动争议应对策略
 
 ### 模块3：证据实务
 **目标**：掌握证据收集、固定、质证全流程
@@ -112,9 +112,9 @@ read_when:
 - 举证期限与证据突袭应对
 
 交付物：
-- [x] `references/evidence-practice-guide.md` — 证据实务操作指南
-- [x] `references/digital-evidence-fixation.md` — 电子证据固定方法
-- [x] `references/templates/evidence-catalog-template.md` — 证据目录模板
+- [ ] `references/evidence-practice-guide.md` — 证据实务操作指南
+- [ ] `references/digital-evidence-fixation.md` — 电子证据固定方法
+- [ ] `references/templates/evidence-catalog-template.md` — 证据目录模板
 
 ### 模块4：法律文书全家福
 **目标**：能撰写诉讼各阶段所需的全部文书
@@ -125,8 +125,8 @@ read_when:
 - 律师函 / 法律意见书 / 调解协议
 
 交付物：
-- [x] `references/legal-writing-compendium.md` — 法律文书写作规范汇编
-- [x] `references/templates/legal-document-templates.md` — 各类文书模板集
+- [ ] `references/legal-writing-compendium.md` — 法律文书写作规范汇编
+- [ ] `references/templates/legal-document-templates.md` — 各类文书模板集
 
 ### 模块5：费用与风险评估
 **目标**：能准确预估案件费用和胜诉概率
@@ -139,8 +139,8 @@ read_when:
 - 风险告知话术与文书
 
 交付物：
-- [x] `references/litigation-cost-guide.md` — 诉讼费用计算指南
-- [x] `references/risk-assessment-framework.md` — 案件风险评估框架
+- [ ] `references/litigation-cost-guide.md` — 诉讼费用计算指南
+- [ ] `references/risk-assessment-framework.md` — 案件风险评估框架
 
 ### 模块6：法律检索能力
 **目标**：能高效检索法规、案例、学术观点
@@ -153,8 +153,8 @@ read_when:
 - 最高法指导案例运用
 
 交付物：
-- [x] `references/legal-research-guide.md` — 法律检索实操指南（含类案检索报告模板）
-- [x] ~~`references/templates/similar-case-report-template.md`~~ — 已合并入 legal-research-guide.md
+- [ ] `references/legal-research-guide.md` — 法律检索实操指南
+- [ ] `references/templates/similar-case-report-template.md` — 类案检索报告模板
 
 ### 模块7：当事人沟通SOP
 **目标**：专业、高效地与当事人沟通
@@ -167,9 +167,9 @@ read_when:
 - 委托代理协议签订要点
 
 交付物：
-- [x] `references/client-communication-sop.md` — 当事人沟通SOP（含问诊清单+签约要点）
-- [x] ~~`references/client-intake-checklist.md`~~ — 已合并入 client-communication-sop.md
-- [x] ~~`references/templates/retainer-agreement-template.md`~~ — 已合并入 client-communication-sop.md
+- [ ] `references/client-communication-sop.md` — 当事人沟通SOP
+- [ ] `references/client-intake-checklist.md` — 首次接待问诊清单
+- [ ] `references/templates/retainer-agreement-template.md` — 委托代理协议模板
 
 ### 模块8：地方实务差异（按需扩展）
 **目标**：了解主要城市的特殊规定和流程
@@ -181,7 +181,7 @@ read_when:
 - 网上立案操作（各地差异）
 
 交付物：
-- [x] `references/local-practice-guide.md` — 主要城市法院实务指南
+- [ ] `references/local-practice-guide.md` — 主要城市法院实务指南
 
 ---
 
@@ -228,30 +228,4 @@ read_when:
 
 ---
 
-## 七、下一步工作（Phase 3 方向）
-
-> Phase 2 全部完成后，law爷已具备独立办案的基础能力。下一步重点是**实战验证+深度专项**。
-
-### 近期待办
-
-| 优先级 | 事项 | 说明 |
-|--------|------|------|
-| 🔴 P0 | **实战验证** | 找一个真实法律问题（劳动仲裁/合同纠纷），走一遍完整流程验证Phase 2模块的实用性 |
-| 🔴 P0 | **SKILL.md 路由表更新** | 当前路由表只覆盖Phase 1的31个文件，需补充Phase 2新增的16个文件路由 |
-| 🟡 P1 | **GitHub 同步 oahiyw-agent** | v3.5.0 尚未同步至 oahiyw-agent/skill-upload（托尼暂缓中） |
-| 🟡 P1 | **InStreet 帖子更新** | v3.5.0 是大版本升级，按规则需要更新帖子 |
-
-### Phase 3 规划方向（待讨论）
-
-| 方向 | 内容 | 价值 |
-|------|------|------|
-| **专项深耕** | 选2-3个高频场景（如劳动争议/房屋租赁/民间借贷）做到"案例库+裁判规则+模板"闭环 | 从"会办案"到"办得好" |
-| **案例库建设** | 按案由分类收集典型案例，提取裁判规则 | 提升法律意见的精准度 |
-| **模拟办案训练** | 给law爷一个虚拟案件，走完从接待到执行的全流程 | 验证实操能力 |
-| **法规更新追踪** | 建立新法/新司法解释的自动追踪机制 | 保持知识库时效性 |
-| **跨领域融合** | 法律+金融（证券维权/基金纠纷）/ 法律+科技（数据合规/AI监管） | 差异化竞争力 |
-
----
-
-*托尼批准：2026-04-10*
-*贾维斯维护：2026-04-29 Phase 2 全部8个模块完成 + 全文审查修正 🎉*
+*贾维斯维护：2026-04-29 Phase 2 全部8个模块完成 🎉*
